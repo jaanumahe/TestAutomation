@@ -14,7 +14,6 @@ driver.findElement(webdriver.By.name('btnG')).click();*/
 
 var a=1,b=0;
 sum=a+b;
-print a;
 print sum;
 
 /*
